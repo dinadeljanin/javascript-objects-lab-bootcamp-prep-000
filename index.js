@@ -8,3 +8,4 @@ function updateObjectWithKeyAndValue(obj, key, value) {
     );
   return newObj;
 }
+

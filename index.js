@@ -10,5 +10,5 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 }
 
 functioon destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
-  
+  return obj[key] = value;
 }
